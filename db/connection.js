@@ -7,7 +7,7 @@ const db = mysql.createConnection(
         // MySQL username
         user: 'elections',
         // MySQL password
-        password: 'P@$$w0rd2033!',
+        password: 'Elections2022!',
         database: 'election_1'
     },
     console.log('Connected to the election database!')
